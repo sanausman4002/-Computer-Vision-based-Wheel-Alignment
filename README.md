@@ -1,6 +1,2 @@
-# -Computer-Vision-based-Wheel-Alignment
-Wheel Alignment plays an important role in vehicle performance, safety and tire longevity, if not to do this so lead to uneven tire wear and decreased fuel efficiency. 
-Traditional wheel alignment required mechanical-based manual calibration and expensive equipment. 
-Advances in computer vision, particularly in image processing, enable the use of cameras to detect key wheel features and compute alignment parameters.
-Developing Computer Vision-based Wheel Alignment system which measures wheel angle (camber & toe) from camera input.
-<img width="3875" height="341" alt="image" src="https://github.com/user-attachments/assets/8fc441fc-212d-4a83-823c-a7efc5eaafce" />
+<img width="10940" height="109" alt="image" src="https://github.com/user-attachments/assets/06f122aa-c183-43cc-9fa2-caadb227065d" /># -Computer-Vision-based-Wheel-Alignment
+Traditional alignment systems are manual and reliant on physical contact tools making them unsuitable for automated applications. This project aims to develop a non-contact, computer vision-based wheel alignment system that utilizes camera input and image processing techniques to accurately measure alignment angles. The proposed system offers an automated alternative to traditional methods, eliminating the potential for human error and enhancing efficiency.
